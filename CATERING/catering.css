@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(130, 122, 164);
+}
+.card{
+    border: 0px;
+    padding: 0px;
+    
+}
+
+img {
+    width: 100%;
+}
